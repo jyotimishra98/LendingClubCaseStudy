@@ -1,6 +1,9 @@
 # Lending Club Case Study
 
-## Problem Statement:
+#####################
+## Problem Statement
+#####################
+
 ######
 * The company needs to improve its loan approval process to identify applicants likely to default.  This involves balancing two competing risks:
     * Rejecting a loan application from a creditworthy individual, leading to lost business.
@@ -113,7 +116,7 @@
 
 #####
 ############################################################################
-## *Conclusion / Summary: Loan Default Patterns of Lending Club Case Study*
+## Conclusion / Summary: Loan Default Patterns of Lending Club Case Study
 ############################################################################
 
 ######
@@ -143,7 +146,7 @@
 
 
 ###############################################################################
-## *Driver Variables for identifying potential loan defaulters:*
+## Driver Variables for identifying potential loan defaulters:
 ###############################################################################
 
 ######
@@ -175,7 +178,9 @@ matplotlib==3.7.3
 seaborn==0.12.2
 
 ######
+################
+# Collaborators:
+################
 
-## Collaborators:
-*  Saurabh Tayde
-*  Jyoti Kumari
+*  Saurabh Tayde (saurabhtayde2810@gmail.com)
+*  Jyoti Kumari (jyotimishra05021987@gmail.com)
