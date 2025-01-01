@@ -1,8 +1,8 @@
+#######################################
 # Lending Club Case Study
+#######################################
 
-#####################
 ## Problem Statement
-#####################
 
 ######
 * The company needs to improve its loan approval process to identify applicants likely to default.  This involves balancing two competing risks:
@@ -28,7 +28,7 @@
 
 
 #################
-# Table of Contents
+## Table of Contents
 #################
 
 ######
@@ -146,7 +146,7 @@
 
 
 ###############################################################################
-## Driver Variables for identifying potential loan defaulters:
+## Driver Variables for Identifying Potential Loan Defaulters:
 ###############################################################################
 
 ######
@@ -171,7 +171,7 @@
     These 8 variables, when considered together and in their interactions, provide a comprehensive view of a borrower's default risk profile.  Other factors, like credit history details and specific sub-grades, can further refine this assessment.
 
 
-## Technologies Used
+### Technologies Used
 pandas==2.0.3
 numpy==1.24.4
 matplotlib==3.7.3
@@ -179,8 +179,9 @@ seaborn==0.12.2
 
 ######
 ################
-# Collaborators:
+## Collaborators:
 ################
 
 *  Saurabh Tayde (saurabhtayde2810@gmail.com)
 *  Jyoti Kumari (jyotimishra05021987@gmail.com)
+
